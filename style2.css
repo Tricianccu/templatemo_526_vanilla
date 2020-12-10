@@ -1,0 +1,27 @@
+body{
+	background-color: antiquewhite;
+	margin-right: auto; 
+	margin-left: auto;
+}
+h1{
+	color: green;
+	font-weight: bold;
+}
+.extra h1{
+	color: inherit;
+	font-weight: inherit;
+}
+p{
+	border: 1px solid black;
+	margin-top: 3%;
+	margin-right: auto;
+	margin-bottom: 3%;
+	margin-left: auto;
+	width: 20%;
+	height: 3%;
+}
+span{
+	color: red;
+	border: 4px white;
+	border-style: dashed;
+}
